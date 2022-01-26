@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/vishal-rai-97805322a/**
 
-- Personal **https://linktr.ee/Vishalrai2002**
+-     Personal **https://linktr.ee/Vishalrai2002**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
