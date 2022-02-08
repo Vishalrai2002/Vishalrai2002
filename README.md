@@ -1,3 +1,5 @@
+<img align ="right" alt="coding" width="400" src="https://www.canva.com/design/DAE3ylVWeAY/WfyEo5F93iiYxI1SKSnG5w/view?utm_content=DAE3ylVWeAY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">A passionate frontend developer and Sophomore B.tech(IT) Undergrad at MAIT,Delhi.</h3>
 <img align ="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
