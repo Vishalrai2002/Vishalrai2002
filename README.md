@@ -1,3 +1,5 @@
+<img align ="right" alt="coding" width="400" src="Vishal Rai (2).png">
+
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">A passionate frontend developer and Sophomore B.tech(IT) Undergrad at MAIT,Delhi.</h3>
 <img align ="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
